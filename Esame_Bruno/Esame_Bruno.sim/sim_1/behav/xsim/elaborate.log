@@ -1,0 +1,29 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot handshaking_tb_behav xil_defaultlib.handshaking_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.CU_A [cu_a_default]
+Compiling architecture behavioral of entity xil_defaultlib.counter_mod8 [counter_mod8_default]
+Compiling architecture behavioral of entity xil_defaultlib.rom [rom_default]
+Compiling architecture structural of entity xil_defaultlib.nodo_A [nodo_a_default]
+Compiling architecture synth of entity xil_defaultlib.MicroRom [microrom_default]
+Compiling architecture microrom of entity xil_defaultlib.CU_B [cu_b_default]
+Compiling architecture behavioral of entity xil_defaultlib.registro [\registro(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.bit_counter [bit_counter_default]
+Compiling architecture behavioral of entity xil_defaultlib.parity_checker [parity_checker_default]
+Compiling architecture structural of entity xil_defaultlib.M [m_default]
+Compiling architecture behavioral of entity xil_defaultlib.mem [mem_default]
+Compiling architecture structural of entity xil_defaultlib.nodo_B [nodo_b_default]
+Compiling architecture behavioral of entity xil_defaultlib.handshaking_tb
+Built simulation snapshot handshaking_tb_behav

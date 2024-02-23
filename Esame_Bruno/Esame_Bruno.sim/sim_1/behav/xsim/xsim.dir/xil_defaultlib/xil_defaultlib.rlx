@@ -1,0 +1,17 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sim_1/new/Handshaking_TB.vhd,1708348807,vhdl,,,,handshaking_tb,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/imports/asdi/Elaborato_Finale/ProgettoAsdi/8_Handshaking/8_Handshaking.srcs/sources_1/new/counter_mod8.vhd,1707672709,vhdl,C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_B.vhd,,,counter_mod8,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/imports/asdi/Elaborato_Finale/ProgettoAsdi/8_Handshaking/8_Handshaking.srcs/sources_1/new/mem.vhd,1708349089,vhdl,C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_B.vhd,,,mem,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/imports/asdi/Elaborato_Finale/ProgettoAsdi/8_Handshaking/8_Handshaking.srcs/sources_1/new/rom.vhd,1708349415,vhdl,C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_A.vhd,,,rom,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/imports/asdi/Esami/Esercitazione_21/Esercitazione_21.srcs/sources_1/new/registro.vhd,1708277133,vhdl,C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_B.vhd,,,registro,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/CU_A.vhd,1708344637,vhdl,C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_A.vhd,,,cu_a,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/CU_B.vhd,1708349620,vhdl,C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_B.vhd,,,cu_b,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/M.vhd,1708347627,vhdl,C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_B.vhd,,,m,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/MicroRom.vhd,1708347709,vhdl,,,,microrom,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/bit_counter.vhd,1708347248,vhdl,,,,bit_counter,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_A.vhd,1708345121,vhdl,,,,nodo_a,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/nodo_B.vhd,1708349338,vhdl,,,,nodo_b,,,,,,,,
+C:/asdi/Esami/Esame_Bruno/Esame_Bruno.srcs/sources_1/new/parity_checker.vhd,1708347410,vhdl,,,,parity_checker,,,,,,,,
